@@ -1,0 +1,18 @@
+#titulo {
+    color:aqua
+}
+
+.cabecera {
+    background-color: red;
+    
+}
+
+* {
+    background-color: green;
+}
+
+.parrafouno {
+    color: orangered;
+    text-align: center;
+    font-size: medium;
+}
